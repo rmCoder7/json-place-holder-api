@@ -16,6 +16,8 @@ function displayPost(posts)
     for(const post of posts)
     {
     //   console.log(post);
+
+    
               
 
     }
